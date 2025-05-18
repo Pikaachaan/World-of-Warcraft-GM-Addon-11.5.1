@@ -1,0 +1,9 @@
+## Interface: 11105
+## Title: GMTool
+## Notes: GMTool by Pikaachaan
+## Version: 1.0
+
+GMTool.xml
+GMTool.lua
+
+
